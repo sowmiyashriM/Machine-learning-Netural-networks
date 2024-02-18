@@ -1,0 +1,19 @@
+Enter the number of layers in the neural network: 3
+Enter the number of nodes in layer 0: 2
+Enter the number of nodes in layer 1: 3
+Enter the number of nodes in layer 2: 1
+Enter weights for edges between layer 0 and layer 1:
+Weight for edge (0,0): 0.1
+Weight for edge (0,1): 0.2
+Weight for edge (0,2): 0.3
+Weight for edge (1,0): 0.4
+Weight for edge (1,1): 0.5
+Weight for edge (1,2): 0.6
+Enter weights for edges between layer 1 and layer 2:
+Weight for edge (0,0): 0.7
+Weight for edge (1,0): 0.8
+Weight for edge (2,0): 0.9
+Enter the layer number where the edge is present: 1
+Enter the from node number: 0
+Enter the to node number: 0
+Weight of edge (0,0) in layer 1: 0.7
